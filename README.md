@@ -84,6 +84,10 @@ release changes.
 External Postgres, custom TLS and other options are in the
 [installation guide](https://labtether.com/docs/getting-started/installation).
 
+## One-click deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/LabTether/)
+
 ## Add your machines
 
 Mix both kinds as you like.
